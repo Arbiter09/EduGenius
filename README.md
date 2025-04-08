@@ -1,1 +1,1 @@
-# AcademIQ
+# EduGenius
